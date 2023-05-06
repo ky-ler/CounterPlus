@@ -17,3 +17,11 @@ External hack for CS:GO made using C++ and ImGui (DirectX 11)
 ![Color picker example](https://github.com/ky-ler/CounterPlus/raw/main/media/color_picker_example.png)
 
 ![ESP boxes](https://github.com/ky-ler/CounterPlus/raw/main/media/esp.png)
+
+## Special Thanks
+
+Thank you to the creators of these projects:
+
+- Menu created using [ocornut/imgui](https://github.com/ocornut/imgui)
+
+- Configuration file reads/writes using [nlohmann/json](https://github.com/nlohmann/json)
